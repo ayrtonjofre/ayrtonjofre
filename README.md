@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nextbyn](https://nextbyn.com)
 
-- 🌱 I’m currently learning **Java in Argentina Programa**
+- 🌱 I’m currently learn **Spring Boot in Argentina Programa**
 
 - 👯 I’m looking to collaborate on [DevOps](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-devops/)
 
